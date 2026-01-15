@@ -1,0 +1,24 @@
+#root {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+ol {
+    font-size: 18px;
+    line-height: 1.8;
+    padding-left: 30px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+code {
+    background-color: #f4f4f4;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+    font-size: 16px;
+    color: #333;
+}
